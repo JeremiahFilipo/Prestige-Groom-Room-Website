@@ -22,7 +22,20 @@ namespace Prestige_Groom_Room_Website.Controllers
         {
             return View();
         }
+
+        public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult BookNow()
+        {
+            return View();
+        }
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult ContactUs()
         {
             return View();
         }
