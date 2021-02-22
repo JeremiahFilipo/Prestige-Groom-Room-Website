@@ -31,7 +31,7 @@ namespace Prestige_Groom_Room_Website.Controllers
         {
             return View();
         }
-        public IActionResult Privacy()
+        public IActionResult Location()
         {
             return View();
         }
