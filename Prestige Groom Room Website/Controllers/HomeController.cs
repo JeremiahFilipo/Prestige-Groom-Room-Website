@@ -27,7 +27,7 @@ namespace Prestige_Groom_Room_Website.Controllers
         {
             return View();
         }
-        public IActionResult BookNow()
+        public IActionResult Barbers()
         {
             return View();
         }
