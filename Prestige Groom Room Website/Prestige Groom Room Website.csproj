@@ -9,4 +9,8 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Imagse\89253120_106270510996304_8287816263003013120_o.jpg" />
+  </ItemGroup>
+
 </Project>
